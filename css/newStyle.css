@@ -1,0 +1,62 @@
+.menu:hover
+{
+    background-color: #d9d8d8;
+    border-radius: 8px;
+}
+.item
+{
+    text-decoration: none;
+    color: black;
+}
+.main-item
+{
+    color: black;
+}
+h4
+{
+    text-decoration: underline;
+}
+*
+{
+    box-sizing: border-box;
+}
+#demo
+{
+    
+}
+#About_Header
+{
+    font-family:cursive;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.more-text
+{
+    display: none;
+}
+#readMore
+{
+    font-size: larger;
+    color: cadetblue;
+}
+.info_pune
+{
+    display: flex;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.extra
+{
+    border-radius: 10px;
+}
+.Travel-time
+{
+    background-color: lightskyblue;
+}
+.checked
+{
+    color: orange;
+}
